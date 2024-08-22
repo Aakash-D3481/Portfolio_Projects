@@ -1,0 +1,56 @@
+# HR Analytics Dashboard for Antler Company
+Company: Antler (Singapore Based Investment Firm)
+
+Department: Human Resources
+
+Tools: Tableau
+
+Project Type: Data Analysis & Interactive Dashboard
+
+### Project Overview
+This project focuses on analyzing HR data for Antler Company to provide actionable insights into employee absenteeism, workload distribution, and other key metrics. The analysis aimed to help the HR department make data-driven decisions to improve workforce management, reduce absenteeism, and better allocate resources.
+
+The result is a highly interactive Tableau dashboard that visualizes critical insights and allows for filtering by various factors, providing the HR team with a flexible tool to understand trends and optimize operations.
+
+### Key Visualizations
+#### Total Absenteeism Hours by Month:
+A monthly breakdown of absenteeism hours, helping HR track trends over time and identify any seasonal patterns.
+
+#### Average Workload by Month:
+Analyzed workload distribution across months to understand if there are periods of higher workload that correlate with absenteeism or reduced employee performance.
+
+#### Average Absenteeism by Age Categories:
+Explored how absenteeism trends vary across different age groups, providing insights into which age demographics may require additional attention or support.
+
+#### Relationship Between Social Drinking and Absenteeism Hours:
+Investigated whether there is any correlation between employees' social drinking habits and their absenteeism hours, offering a new perspective on potential factors affecting attendance.
+
+#### Common Reasons for Absenteeism:
+Visualized the most frequent reasons cited for absenteeism, allowing HR to address and potentially mitigate these causes.
+
+#### Average Transportation Expenses by Age Groups:
+Analyzed transportation expenses incurred by employees across different age groups, helping HR to assess whether commuting costs could be contributing to absenteeism or job dissatisfaction.
+
+### Dashboard Features
+The dashboard offers dynamic filtering options to help HR professionals drill down into the data and extract insights based on various criteria:
+
+#### Day of the Week: 
+Explore absenteeism trends by different days of the week to identify whether certain days require more workforce attention.
+#### Season: 
+Filter by seasons to uncover any seasonal patterns affecting absenteeism or workload.
+#### Education Level: 
+Analyze absenteeism and workload data by employees' education level to understand whether qualifications influence workforce behavior.
+
+### Outcome
+This interactive Tableau dashboard equips Antler Company's HR department with powerful, data-driven insights to:
+
+Reduce absenteeism through targeted interventions.
+Optimize employee workload distribution.
+Address potential issues related to transportation costs and social factors affecting employee attendance.
+Make strategic decisions on resource allocation and workforce planning.
+Skills Demonstrated
+Data Visualization in Tableau
+HR Analytics & Insights
+Correlation Analysis (Absenteeism & Social Factors)
+Dynamic Filtering & Dashboard Interaction
+Business Intelligence & Decision Support
