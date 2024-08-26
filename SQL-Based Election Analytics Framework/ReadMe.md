@@ -27,9 +27,10 @@ Leveraged Python Data Analysis Packages like Pandas to create a Data Integrity S
 #### Data Pipeline Automation: 
 Developed another Python script that connects directly to the SQL database to automate the processing and storage of Form 20 data. This script streamlined the data loading process, eliminating the need for manual entry via the SQL interface.
 
-### Why PostgreSQL?
+### Why SQL Server?
+I chose SQL Server for this project due to its enterprise-grade reliability, advanced security features, and seamless integration with other Microsoft tools. SQL Server’s optimized performance, especially with large-scale datasets, made it ideal for managing the complex and voluminous data related to electoral analysis. Its robust support for stored procedures, indexing, and partitioning allowed for efficient query performance, which was essential for the dynamic and real-time analysis required in this project.
 
-I chose PostgreSQL for this project due to its robust feature set, scalability, and strong community support. PostgreSQL’s powerful indexing and advanced data types made it an ideal choice for handling the large and complex datasets associated with electoral data. Additionally, its support for advanced SQL functionalities, like window functions and CTEs, allowed for efficient query performance, essential for the dynamic analysis requirements of this project. The flexibility and open-source nature of PostgreSQL also ensured that the solution could evolve with future needs, making it a sustainable choice for the organization.
+Another key reason is SQL Server’s ease of writing table-valued functions, which provided flexibility and reusability in managing complex business logic within queries. Additionally, the importing process in SQL Server offers more control compared to other technologies, allowing for customized data loading strategies that enhance data integrity and reliability. Together, these features made SQL Server a powerful and sustainable solution for the organization's evolving needs.
 
 ## Impact
 
