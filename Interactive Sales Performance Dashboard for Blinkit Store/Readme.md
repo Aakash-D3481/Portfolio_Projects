@@ -1,3 +1,6 @@
+# Interactive Sales Performance Dashboard for Blinkit Store
+
+![Screenshot 2024-10-15 195409](https://github.com/user-attachments/assets/dae98b5f-f13c-4bf3-9d9c-39d2328bcf99)
 
 
 ## Project Overview
