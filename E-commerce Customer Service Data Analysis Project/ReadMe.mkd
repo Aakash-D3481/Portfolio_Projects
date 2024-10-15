@@ -1,5 +1,8 @@
 ## E-commerce Customer Service Data Analysis Project
 
+![Screenshot 2024-10-15 200339](https://github.com/user-attachments/assets/064f764a-ae5c-4b07-8346-48d2895a8b09)
+
+
 ### Project Overview
 The goal of the analysis was to gain key insights from customer service data, optimize the service processes and improve customer satisfaction. The insights generated will assist in making data-driven decisions that enhance customer experience and drive overall business growth.
 
