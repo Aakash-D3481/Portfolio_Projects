@@ -1,6 +1,6 @@
-![Screenshot 2024-10-15 193847](https://github.com/user-attachments/assets/19b90d56-43a3-42c6-96e9-954262ade454)
-
 # Project Title: HR Analytics Dashboard 📊
+
+![Screenshot 2024-10-15 193847](https://github.com/user-attachments/assets/19b90d56-43a3-42c6-96e9-954262ade454)
 
 In the HR Analytics Dashboard project, I transformed and manipulated raw data in Power BI, imported from an Excel workbook. The data, divided by months and separated into sheets in the workbook, was combined and appended into a single data table. After cleaning the data, I calculated various measures to derive insights.
 
